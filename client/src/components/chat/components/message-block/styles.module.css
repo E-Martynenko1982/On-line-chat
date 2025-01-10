@@ -1,6 +1,5 @@
 .messageBlock {
 	padding: 20px;
-	height: 10vh;
 }
 
 .form {
@@ -10,6 +9,7 @@
 	align-items: center;
 	justify-content: space-between;
 }
+
 .userMessage {
 	padding: 15px;
 	width: 80%;
@@ -19,15 +19,17 @@
 	outline: none;
 }
 
-.bnt {
+.btn {
 	width: 150px;
 	padding: 10px;
+	margin-left: 5px;
 	border: none;
 	outline: none;
 	color: #eae3d2;
 	cursor: pointer;
 	background-color: green;
 }
+
 .btn:hover {
 	background-color: #4caf50;
 }

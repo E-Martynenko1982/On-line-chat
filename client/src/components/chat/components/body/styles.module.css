@@ -5,7 +5,6 @@
 }
 
 .header {
-	margin-top: 120px;
 	padding: 20px;
 	display: flex;
 	justify-content: flex-end;
@@ -28,12 +27,7 @@
 .container {
 	padding: 20px;
 	background-color: #fff;
-	height: 80vh;
-	overflow-y: scroll;
-}
-
-.container > * {
-	margin-bottom: 10px;
+	height: 60vh;
 }
 
 .chats {
